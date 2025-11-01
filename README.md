@@ -42,7 +42,7 @@ Power BI social media analytics dashboard for the fitness industry. Shows custom
 
 ### Screenshot Preview
 
-[Overview](IMAGE1.png)
+[Overview](Fitness-social-analytics/image1.png)
 
 ---
 
