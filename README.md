@@ -40,6 +40,12 @@ Power BI social media analytics dashboard for the fitness industry. Shows custom
 
 ---
 
+### Screenshot Preview
+
+[Overview](IMAGE2.png)
+
+---
+
 ### Contact
 Created by: **Warunee Soythong**  
 Master’s — Business Analytics | Kristiania University
