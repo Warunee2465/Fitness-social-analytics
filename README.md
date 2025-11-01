@@ -1,9 +1,7 @@
-# Fitness-social-analytics
+# Social Media Analytics – Fitness Industry
+
 Power BI social media analytics dashboard for the fitness industry. Shows customer sentiment, posting behavior (day/hour), top topics, and influencer impact to support marketing decisions.
 
-# Social Media Analytics – Fitness Industry (Thailand)
-
-This project analyzes social media conversations in the fitness category to understand audiences, engagement behavior, topics, and sentiment.
 
 ### Tools used
 | Tool | Purpose |
